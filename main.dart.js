@@ -37642,10 +37642,10 @@ goH(){var s=this
 return A.b([s.a,s.b,s.c,s.w],t.jl)},
 gak(a){return this.b}}
 A.ZZ.prototype={
-$1(a){return"images/"+this.a.a+"/"+a+".webp"},
+$1(a){return"assets/images/"+this.a.a+"/"+a+".webp"},
 $S:25}
 A.a__.prototype={
-$1(a){return"images/"+this.a.a+"/"+a+".jpeg"},
+$1(a){return"assets/images/"+this.a.a+"/"+a+".jpeg"},
 $S:25}
 A.FH.prototype={
 J(a,b){var s=null,r=A.a4p(s,s,s,B.V,s,s,s).R8.a05(B.O,B.O,"MierB")
@@ -37784,7 +37784,7 @@ return A.b([p,A.lz(null,a.k(0,B.b.gH(B.fm))?50:100,null)],t.D)},
 $S:172}
 A.GP.prototype={
 J(a,b){var s=null,r=this.c,q=t.D
-q=A.b([A.e1(A.b([new A.mM(1,B.f1,A.ahv(B.vO,A.adA("images/"+r.a+"/cover.webp",B.eB,500,500)),s),B.ku,A.rp(r.b,B.uX,s,s),A.rp(r.c,B.Nw,s,s)],q),B.aD,B.U,B.aw)],q)
+q=A.b([A.e1(A.b([new A.mM(1,B.f1,A.ahv(B.vO,A.adA("assets/images/"+r.a+"/cover.webp",B.eB,500,500)),s),B.ku,A.rp(r.b,B.uX,s,s),A.rp(r.c,B.Nw,s,s)],q),B.aD,B.U,B.aw)],q)
 if(r.w)q.push(A.qq(s,A.ji(s,B.Oj,B.r,s,B.vZ,s,s,B.BK,s),s,s,0,s,0,s))
 return A.jq(s,A.ahv(B.vP,A.k1(B.ba,q,B.G,B.b6)),B.a1,!1,s,s,s,s,s,s,s,s,s,s,new A.ZP(this,b),s,s,s,s,s,s)}}
 A.ZP.prototype={
