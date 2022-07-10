@@ -4,11 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "023a2612cf0a924224239466ab10c742",
-"favicon.ico": "2489f847b29c36c2c3c5af13faf689f8",
-"index.html": "1ade7f5f79ea89661b6e4cd2c9b5cb6f",
-"/": "1ade7f5f79ea89661b6e4cd2c9b5cb6f",
+"index.html": "5cf5754b4e2b66f71e5b895b1aff0ad5",
+"/": "5cf5754b4e2b66f71e5b895b1aff0ad5",
 "main.dart.js": "631057f1ca71e16c2695aa07bca04252",
-"favicon.png": "bde75f39393cd41bd27dfb5408c96e1a",
+"favicon.png": "df3d1e3daf3331dafb7d7774b6c6b7f1",
 "icons/apple-touch-icon.png": "200bf7835c3cd44725787fe80970d9d2",
 "icons/Icon-192.png": "57d54f3f34fc613831ce716be1883d1a",
 "icons/Icon-maskable-192.png": "a15351ae589be56fe751657224884c7c",
@@ -40,8 +39,7 @@ const RESOURCES = {
 "assets/assets/vector_graphics/back_arrow.svg": "7f9671daee9865a081d83801b54413b6",
 "assets/assets/vector_graphics/instagram.svg": "341a67c538d67f9ce92005cf14255dc2",
 "assets/assets/vector_graphics/linkedin.svg": "97ce31c8546f65bd1e25afbbf86ec1de",
-"assets/assets/vector_graphics/behance.svg": "426317c536dd22393ee54f7fbdfb6596",
-"favicon-32x32.png": "df3d1e3daf3331dafb7d7774b6c6b7f1"
+"assets/assets/vector_graphics/behance.svg": "426317c536dd22393ee54f7fbdfb6596"
 };
 
 // The application shell files that are downloaded before a service worker can
