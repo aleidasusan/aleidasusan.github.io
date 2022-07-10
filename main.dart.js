@@ -39069,9 +39069,8 @@ $S:148}
 A.a_I.prototype={
 $2(a,b){var s,r=$.kj;(r==null?$.kj=new A.a3k(B.uN):r).a=B.uN
 s=a.U(t.w).f
-r=s.a
-r.i(0)
 $.aAb.b=s.b
+r=s.a
 $.anu.b=r.a
 $.o8.b=r.b
 r=s.f
@@ -39177,7 +39176,7 @@ I(a,b){var s=null,r=A.kP(b)===B.cl?40:130,q=new A.dW(B.eU,2,B.bC),p=A.fU(s,new A
 return A.i4(B.bA,A.b([new A.e1(new A.b3(r,45,0,0),p,s),A.r3(s,new A.e1(new A.b3(0,0,o,0),new A.dA(B.w_,A.cG("I\u2019m curious, passionate, and always have a positive attitude. I have the ability to solve problems creatively and effectively, both independently or in a team.".toUpperCase(),s,!0,$.ar7(),s,s),s),s),s,s,0,0,0,s)],t.D),B.E,B.aS)}}
 A.MV.prototype={
 I(a,b){var s=null,r=A.an3(A.fU(s,s,B.q,s,B.w2,s,s,s,s)),q=$.jA.ab(),p=A.cS(100,s),o=$.ar5(),n=t.D
-return A.i4(B.aX,A.b([r,B.HX,new A.e1(new A.b3(q,0,q,0),A.fT(A.b([B.JT,p,A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.lq,A.cG("I have experience in designing apps, webistes and landing pages.",s,s,o,B.ef,s),s),s)],n),B.a5,B.GK,B.R),A.cS(80,s),A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.vX,A.cG("My name is Aleida. I\u2019m a freelance UX  Designer based in Europe.",s,s,$.ar4(),B.kN,s),s),s)],n),B.a5,B.fJ,B.R),A.cS(80,s),A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.lq,A.cG("I love making every experience people have with your business meaningful. My work focuses on creating products with a captivating story and strategy that then irradiate into a visual shape designed to communicate.",s,s,o,s,s),s),s)],n),B.a5,B.a3,B.R),A.cS(24,s)],n),B.a5,B.bX,B.R),s)],n),B.E,B.aS)}}
+return A.i4(B.aX,A.b([r,B.HX,new A.e1(new A.b3(q,0,q,0),A.fT(A.b([B.JT,p,A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.lq,A.cG("I have experience in designing apps, webistes and landing pages.",s,s,o,B.ef,s),s),s)],n),B.a5,B.GK,B.R),A.cS(80,s),A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.vX,A.cG("My name is Aleida. I\u2019m a freelance UX  Designer based in Europe.",s,s,$.ar4(),B.kN,s),s),s)],n),B.a5,B.fJ,B.R),A.cS(80,s),A.j5(A.b([new A.fk(1,B.aL,new A.dA(B.lq,A.cG("I love making every experience people have with your business meaningful. My work focuses on creating products with a captivating story and strategy that then irradiate into a visual shape designed to communicate.",s,s,o,s,s),s),s)],n),B.a5,B.a3,B.R),A.cS(144,s)],n),B.a5,B.bX,B.R),s)],n),B.E,B.aS)}}
 A.Nu.prototype={
 I(a,b){var s=null,r=$.jA.ab(),q=t.D,p=A.b([A.cG("MY SKILLS",s,s,$.S6(),s,s)],q)
 B.c.J(p,A.b([A.cS(90,s),B.JX,A.cS(35,s),B.JZ,A.cS(35,s),B.JW,A.cS(35,s),B.JY,A.cS(35,s),B.JV],q))
