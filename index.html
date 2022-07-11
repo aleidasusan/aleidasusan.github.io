@@ -40,16 +40,52 @@
   <meta name="msapplication-config" content="icons/browserconfig.xml">
   <link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#52539e">
   <meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '836985808';
+    var serviceWorkerVersion = '253973653';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
+
+  <style type="text/css">
+    .container {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-color: #EEE6DA;
+      text-align: center;
+      font-size: 0;
+      white-space: nowrap;
+      overflow: auto;
+    }
+
+    .container:after {
+      content: '';
+      display: inline-block;
+      height: 100%;
+      vertical-align: middle;
+    }
+
+    .splash {
+      display: inline-block;
+      vertical-align: middle;
+      text-align: left;
+      font-size: 14px;
+      white-space: normal;
+    }
+  </style>
 </head>
 <body>
+
+  <div id="loader" class="container">
+    <img class="splash" src="/icons/Icon-192.png" />
+  </div>
+
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
