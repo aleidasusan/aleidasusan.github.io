@@ -10283,11 +10283,12 @@ _.c=0},
 az_(){return new A.wt(new A.ZO(),A.B(t.K,t.Qu))},
 Ko:function Ko(a,b){this.a=a
 this.b=b},
-xf:function xf(a,b,c,d){var _=this
+xf:function xf(a,b,c,d,e){var _=this
 _.w=a
 _.ay=b
-_.cx=c
-_.a=d},
+_.ch=c
+_.cx=d
+_.a=e},
 ZO:function ZO(){},
 ZT:function ZT(){},
 B1:function B1(a){var _=this
@@ -39093,7 +39094,7 @@ A.yN.prototype={
 i(a){return"ScreenshotType."+this.b}}
 A.H2.prototype={
 I(a,b){var s=null,r=A.a7a(s,s,s,B.V,s,s,s).R8.a2X(B.I,B.I,"MierB")
-return new A.xf(new A.a_M(),new A.a_N(),A.a7a(B.vC,B.k,A.a7a(s,s,s,B.Y,s,s,s).xr,s,B.a3,B.k,r),s)}}
+return new A.xf(new A.a_M(),new A.a_N(),"Aleida Sus\xe1n",A.a7a(B.vC,B.k,A.a7a(s,s,s,B.Y,s,s,s).xr,s,B.a3,B.k,r),s)}}
 A.a_M.prototype={
 $1(a){var s,r=null,q=a.a
 if(q!=null){if(q==="/")return A.ZQ(new A.a_J(),!0,r,t.z)
@@ -39216,7 +39217,7 @@ A.XV.prototype={
 $3(a,b,c){return A.G9(new A.uK(b,A.ahp($.agG()),A.ahp($.agI()),A.ahp($.ake()),null),"app-bar")},
 $S:439}
 A.KX.prototype={
-I(a,b){var s,r=null,q=t.D,p=A.b([A.fi(A.b([A.cQ("ABOUT",r,r,$.Se(),r,r),A.co(94,r),new A.fZ(1,B.b4,new A.d5(B.w5,A.cQ("I am from Argentina but I\u2019m living in Europe since 2021.\n                \nI have a degree in International Relations and in my past life I worked in Foreign Trade doing business with people all around the world. In that time I found how inefficient and outdated some websites and software can be so I often found myself using creative solutions to save time and build more efficient working systems.\n                \nMy interest in International Relations has always been based on a lifelong desire to meet and interact with people of different origins and different backgrounds.  Now, through user centered design, I am able to do that.\n                \nHaving completed several UX courses I continue my daily learning to improve my skills since I love to know and be aware of new trends in design.\n                \nFun facts: I prefer to be gifted food instead of flowers, watch movies instead of going out and cats over dogs.",r,!0,$.ajR(),B.d5,r),r),r)],q),B.aJ,B.a_,B.cH),A.co(145,45),B.Ck],q)
+I(a,b){var s,r=null,q=t.D,p=A.b([A.fi(A.b([A.cQ("ABOUT",r,r,$.Se(),r,r),A.co(94,r),new A.fZ(1,B.b4,new A.d5(B.w5,A.cQ("I am from Argentina but I\u2019m living in Europe since 2021.\t\n                \nI have a degree in International Relations and in my past life I worked in Foreign Trade doing business with people all around the world. In that time I found how inefficient and outdated some websites and software can be so I often found myself using creative solutions to save time and build more efficient working systems.\n                \nMy interest in International Relations has always been based on a lifelong desire to meet and interact with people of different origins and different backgrounds.  Now, through user centered design, I am able to do that.\n                \nHaving completed several UX courses I continue my daily learning to improve my skills since I love to know and be aware of new trends in design.\n                \nFun facts: I prefer to be gifted food instead of flowers, watch movies instead of going out and cats over dogs.",r,!0,$.ajR(),B.d5,r),r),r)],q),B.aJ,B.a_,B.cH),A.co(145,45),B.Ck],q)
 q=$.iE.a0()
 s=$.e5
 s.toString
@@ -42233,13 +42234,14 @@ if(q)n.a.toString
 if(p)n.a.toString
 o=n.a.cx
 return new A.yM(new A.uR(o,new A.kZ(new A.abr(n,b),m),B.a4,B.ad,m,m),m)},
-Vq(a){var s,r=this,q=null,p=r.a,o=p.cx
-o=o.at
-s=o
-p=p.w
-o=r.gZR()
-r.a.toString
-return new A.zV(q,p,q,new A.abq(),q,q,q,q,q,B.Hd,q,q,B.EF,r.gZV(),"",q,B.Nz,s,q,o,q,q,B.n6,!1,!1,!1,!1,r.gZw(),!0,q,q,q,!1,new A.lk(r,t.bT))},
+Vq(a){var s,r,q=this,p=null,o=q.a,n=o.cx
+n=n.at
+s=n
+n=o.w
+o=o.ch
+r=q.gZR()
+q.a.toString
+return new A.zV(p,n,p,new A.abq(),p,p,p,p,p,B.Hd,p,p,B.EF,q.gZV(),o,p,B.Nz,s,p,r,p,p,B.n6,!1,!1,!1,!1,q.gZw(),!0,p,p,p,!1,new A.lk(q,t.bT))},
 I(a,b){var s=null,r=A.wf(!1,!1,this.Vq(b),s,s,s,s,!0,s,s,new A.abs(),s,s)
 this.a.toString
 return new A.yP(B.wP,new A.nt(A.a(this.d,"_heroController"),r,s),s)}}
