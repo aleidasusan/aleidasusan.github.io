@@ -1,7 +1,7 @@
 {
   "name": "Aleida Susán",
   "short_name": "Aleida Susán",
-  "start_url": "home",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#52539e",
   "theme_color": "#52539e",
