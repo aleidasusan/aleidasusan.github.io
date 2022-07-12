@@ -8675,7 +8675,7 @@ pv:function pv(){},
 a0f:function a0f(){},
 Lm:function Lm(){},
 SZ:function SZ(){},
-aA0(a){return A.ayN(B.nh,new A.a1F(a))},
+aA0(a){return A.ayN(B.ng,new A.a1F(a))},
 a1F:function a1F(a){this.a=a},
 fy:function fy(a,b,c,d,e,f,g,h,i,j,k){var _=this
 _.a=a
@@ -39288,7 +39288,7 @@ $1(a){},
 $S:62}
 A.Or.prototype={
 H(a,b){var s=null,r=$.iE.a0(),q=A.b([A.cS("PROJECTS",s,s,$.Sh(),s,s),A.co(125,s)],t.D)
-B.c.J(q,new A.hD(B.nh,new A.acq(this),t.tQ))
+B.c.J(q,new A.hD(B.ng,new A.acq(this),t.tQ))
 q.push(A.co(100,s))
 return A.eR(s,A.fj(q,B.aJ,B.a_,B.S),B.q,B.k,s,s,s,new A.b2(r,0,r,0),1/0)},
 ND(a,b){var s,r=J.ahH(6,t.l7)
@@ -69813,7 +69813,7 @@ B.EQ=A.b(s(["file","directory","link","notFound"]),t.s)
 B.ES=A.b(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.ft=A.b(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.dW=A.b(s(["image_1"]),t.s)
-B.ng=A.b(s(["image_2"]),t.s)
+B.nh=A.b(s(["image_2"]),t.s)
 B.an=new A.yO(0,"mobile")
 B.ko=new A.cF("screenshot_1",B.an)
 B.kp=new A.cF("screenshot_2",B.an)
@@ -69823,14 +69823,12 @@ B.uC=new A.cF("screenshot_5",B.an)
 B.uD=new A.cF("screenshot_6",B.an)
 B.IF=new A.cF("screenshot_7",B.an)
 B.ET=A.b(s([B.ko,B.kp,B.eg,B.kq,B.uC,B.uD,B.IF]),t.oG)
-B.Ig=new A.fy("eco","Eco Shop mobile app","UX/UI Design- Design System","This project was motivated by my commitment with the environment.  What we consume affects the planet and our health so this work was my contribution to the cause.\n          \nThe objective with this design was to build for the client a mobile app for their Eco shop to attend the needs of their consumers in the purchase of their products quickly and efficiently.\n          \nI use the Design Thinking method from the start till the end of the complete process.\n          \nUX Research and Usability Testings were the key to build this product.  Also, I create a Design System with guidelines in order to make a more consistent UI.","https://www.behance.net/gallery/147033339/UX-Design-Eco-Shop-app","cover.webp",B.dW,B.ng,B.ET,!0,0)
+B.Ig=new A.fy("eco","Eco Shop mobile app","UX/UI Design- Design System","This project was motivated by my commitment with the environment.  What we consume affects the planet and our health so this work was my contribution to the cause.\n          \nThe objective with this design was to build for the client a mobile app for their Eco shop to attend the needs of their consumers in the purchase of their products quickly and efficiently.\n          \nI use the Design Thinking method from the start till the end of the complete process.\n          \nUX Research and Usability Testings were the key to build this product.  Also, I create a Design System with guidelines in order to make a more consistent UI.","https://www.behance.net/gallery/147033339/UX-Design-Eco-Shop-app","cover.webp",B.dW,B.nh,B.ET,!0,0)
 B.EU=A.b(s(["image_1","image_2"]),t.s)
 B.EP=A.b(s([B.ko,B.kp,B.eg,B.kq,B.uC]),t.oG)
 B.Id=new A.fy("imdb","IMDb mobile app","Redesign UX/UI","This is a redesign of IMDb mobile app.  The main challenge was to understand the relationship between users and this database and how they feed each other.\n          \nThrough time the consumption habits of this type of data have changed, going through specialized magazines and newspapers until reaching experiences of interaction with virtual reality.\n          \nThe massive growth of multimedia productions, partly caused by the need for home entertainment during the COVID-19 pandemic, and the urgent need to consume information at high speed is the scenario in which IMDb is inserted.\n          \nThe redesign methodology was made following the James Garrett's 5 Elements of UX: Strategy, Scope, Structure, Skeleton, and Surface.\n          \n1. The Strategy:  Understand the needs of the user and the objective of the business by conducting a User Research (surveys, interviews, benchmarking, building user personas, user journeys and DVF model)\n          \n2. The Scope: I define the requirements. The axes to work and the tasks to fulfill were established. Pain Points and possible solutions.\n          \n3. The Structure: I build a new Information Architecture. This included testings as Card Sorting and Tree Testing.  Wireflows and Taskflows were also created at this step.\n          \n4. The Skeleton and Surface: A prototype was created to perform remote testings and finally I create of a Design System and a style guide.","https://www.behance.net/gallery/137217303/IMDb-Mobile-Redesign","cover.webp",B.EU,B.aE,B.EP,!1,6)
 B.EF=A.b(s([]),t.oG)
 B.If=new A.fy("marriage","Marriage 365","UX Research","In this project I worked for Eazy Design Agency as part of the UX Research team.\n              \nThe main goal was doing the research for a new mobile app for Marriage365  (this is a website specialized in consulting for couples and marriage advices)\n              \nI performed diferents task such as strategy, design, discovery and requirements.\n              \nWe conduct quantitative and qualitative research. Surveys (online, in depth, focus groups), remote interviews, gathering data and its subsequent analysis.\n              \nI also built user personas, empathy and journey maps,  revealing user needs and pain points  for better understanding the end-to-end user journey.","","cover.webp",B.dW,B.aE,B.EF,!1,3)
-B.E4=A.b(s([B.ko,B.kp,B.eg]),t.oG)
-B.Ie=new A.fy("patisserie","La Patisserie mobile app","UX/ UI Design","This was my first project  during my UX Design Google Course. It\u2019s a mobile app created for a French patisserie.\n          \nThe objective was to give to the customers an alternative to buy their pastries. This is a mobile shop application where the personas can buy pastries online without moving home.\n          \nThe project was born during pandemic times when de people can't go outside to buy groceries. Also, is designed for people who doesn't have time to go to the patisserie store because of the limited time after work or a busy day.","https://www.behance.net/gallery/126540663/La-Patisserie-App-Study-Case","cover.webp",B.dW,B.ng,B.E4,!1,6)
 B.bx=new A.yO(1,"web")
 B.IC=new A.cF("screenshot_1",B.bx)
 B.ID=new A.cF("screenshot_2",B.bx)
@@ -69844,8 +69842,10 @@ B.Iz=new A.cF("screenshot_12",B.an)
 B.IA=new A.cF("screenshot_13",B.an)
 B.IB=new A.cF("screenshot_14",B.bx)
 B.E3=A.b(s([B.IC,B.ID,B.eg,B.kq,B.IE,B.uD,B.IG,B.IH,B.II,B.Ix,B.Iy,B.Iz,B.IA,B.IB]),t.oG)
-B.Ic=new A.fy("tempranera","La Tempranera Plant Shop Website","UX/ UI Design","This was one of my very first projects. It was created for a Plant shop called La Tempranera. It\u2019s a responsive Website (Desktop and Mobile).\n          \nThe main goal was to give the opportunity to La Tempranera\u2019s clients to buy plants online. The user personas are costumer of the plant shop who doesn't have the time or a mobility to go to the store.\n          \nThe design approach was to create a simple and friendly website that highlighted the main executable functions on the site.","https://www.behance.net/gallery/128608101/La-tempranera-responsive-Website","cover.jpg",B.dW,B.aE,B.E3,!1,0)
-B.nh=A.b(s([B.Ig,B.Id,B.If,B.Ie,B.Ic]),A.Q("p<fy>"))
+B.Ic=new A.fy("tempranera","La Tempranera Plant Shop Website","UX/ UI Design","This was one of my very first projects. It was created for a Plant shop called La Tempranera. It\u2019s a responsive Website (Desktop and Mobile).\n          \nThe main goal was to give the opportunity to La Tempranera\u2019s clients to buy plants online. The user personas are costumer of the plant shop who doesn't have the time or a mobility to go to the store.\n          \nThe design approach was to create a simple and friendly website that highlighted the main executable functions on the site.","https://www.behance.net/gallery/128608101/La-tempranera-responsive-Website","cover.jpg",B.dW,B.aE,B.E3,!1,6)
+B.E4=A.b(s([B.ko,B.kp,B.eg]),t.oG)
+B.Ie=new A.fy("patisserie","La Patisserie mobile app","UX/ UI Design","This was my first project  during my UX Design Google Course. It\u2019s a mobile app created for a French patisserie.\n          \nThe objective was to give to the customers an alternative to buy their pastries. This is a mobile shop application where the personas can buy pastries online without moving home.\n          \nThe project was born during pandemic times when de people can't go outside to buy groceries. Also, is designed for people who doesn't have time to go to the patisserie store because of the limited time after work or a busy day.","https://www.behance.net/gallery/126540663/La-Patisserie-App-Study-Case","cover.webp",B.dW,B.nh,B.E4,!1,0)
+B.ng=A.b(s([B.Ig,B.Id,B.If,B.Ic,B.Ie]),A.Q("p<fy>"))
 B.dX=A.b(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.vl=new A.oO(0,"topLeft")
 B.vo=new A.oO(3,"bottomRight")
