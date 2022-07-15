@@ -1,5 +1,4 @@
 function trackPage(name) {
     analytics.page(name);
-    gtag('set', 'page_path', name);
-    gtag('event', 'page_view');
+    gtag('config', 'G-58RKGVK43W', { 'page_path': name });
  }
