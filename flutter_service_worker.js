@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "023a2612cf0a924224239466ab10c742",
-"index.html": "34f5d09a11bf8a84b669aad8592e2ac8",
-"/": "34f5d09a11bf8a84b669aad8592e2ac8",
-"main.dart.js": "b6c32b8db98c55f6d055baf9433cddd5",
+"index.html": "4ccdd180114f18910d187e6cee498b60",
+"/": "4ccdd180114f18910d187e6cee498b60",
+"main.dart.js": "dbebbde53dd2dffa1991e49c2646139b",
 "icons/favicon-16x16.png": "84a3065847490d3f3909d7e3732b65e9",
 "icons/safari-pinned-tab.svg": "195623d8ec9b355ea58346fcd777363e",
 "icons/favicon.ico": "8bb7304235e843d6ea023a5ac9f9eaf6",
@@ -45,7 +45,9 @@ const RESOURCES = {
 "assets/assets/vector_graphics/instagram.svg": "341a67c538d67f9ce92005cf14255dc2",
 "assets/assets/vector_graphics/cv.svg": "7b33c690f25f8aaa90896abb98aa58c8",
 "assets/assets/vector_graphics/linkedin.svg": "97ce31c8546f65bd1e25afbbf86ec1de",
-"assets/assets/vector_graphics/behance.svg": "426317c536dd22393ee54f7fbdfb6596"
+"assets/assets/vector_graphics/behance.svg": "426317c536dd22393ee54f7fbdfb6596",
+"analytics/page.js": "7ab0e78cade2f4fca5d175e293eebca5",
+"analytics/event.js": "d63057a00cbe9b2e716be4fe4a733720"
 };
 
 // The application shell files that are downloaded before a service worker can
