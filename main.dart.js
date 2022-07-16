@@ -39441,9 +39441,9 @@ $0(){A.lO(this.a).pL(0,null)
 return null},
 $S:0}
 A.a1L.prototype={
-$0(){var s=this.a.e
-A.KE("OpenedBehanceProject"+(s[0].toUpperCase()+B.b.b9(s,1)))
-A.uL(s)},
+$0(){var s=this.a,r=s.a
+A.KE("OpenedBehanceProject"+(r[0].toUpperCase()+B.b.b9(r,1)))
+A.uL(s.e)},
 $S:0}
 A.a1M.prototype={
 $1(a){return new A.lG(a,new A.aY(0,A.fP(this.a)===B.b2&&this.b.r.length>1?50:0,0,50),null)},
