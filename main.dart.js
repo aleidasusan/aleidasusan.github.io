@@ -38193,7 +38193,7 @@ n=A.eO(A.a([s,A.cT("Product Designer",p,p,r.a7i(A.dP(a)===B.bz?80:p),p),A.bA(8,p
 r=A.bA(75,10)
 s=$.iv
 s.toString
-return A.yX(A.a([new A.qm(o,new A.Hx(n,p),p),r,A.ml(B.xr,A.a([new A.fq(new A.bm(0,0,50*Math.min($.rI.ak()/s.a.a,1.2),250),A.Xy("profile_photo_2.jpg",B.fI,p,B.d8,B.fM,m,p,p),p),A.yk(0,A.cT("I'm a curious and passionate person who always brings a positive attitude to whatever I do. I love finding creative and effective solutions to problems, whether I\u2019m working on my own or with a team.".toUpperCase(),p,p,$.axQ().a7u(B.az,1),B.av),p,p,m/2,0,m-30,p)],q),B.O,B.bW)],q),B.L,p,B.L,B.dy)}}
+return A.yX(A.a([new A.qm(o,new A.Hx(n,p),p),r,A.ml(B.xr,A.a([new A.fq(new A.bm(0,0,50*Math.min($.rI.ak()/s.a.a,1.2),300),A.Xy("profile_photo_2.jpg",B.fI,p,B.d8,B.fM,m,p,p),p),A.yk(0,A.cT("I'm a curious and passionate person who always brings a positive attitude to whatever I do. I love finding creative and effective solutions to problems, whether I\u2019m working on my own or with a team.".toUpperCase(),p,p,$.axQ().a7u(B.az,1),B.av),p,p,m/2,0,m-30,p)],q),B.O,B.bW)],q),B.L,p,B.L,B.dy)}}
 A.PS.prototype={
 I(a){var s=null,r=t.F
 return A.eO(A.a([A.cT("my skills.",s,s,$.E0().eS(B.em),s),A.bA(95,s),A.yX(A.a([A.eO(A.a([B.NJ,A.bA(35,s),B.NE,A.bA(35,s),B.ND,A.bA(35,s),B.NC,A.bA(35,s),B.NH],r),B.L,B.K,B.V),A.bA(35,35),A.eO(A.a([B.NI,A.bA(35,s),B.NG,A.bA(35,s),B.NF,A.bA(35,s),B.NB],r),B.L,B.K,B.V)],r),B.L,s,B.a2,B.dy)],r),B.L,B.K,B.V)}}
