@@ -38183,7 +38183,7 @@ A.Mx.prototype={
 I(a){var s=null,r=A.dP(a)===B.aP?$.jY.ak():0
 return new A.fq(new A.bm(r,0,r,0),A.eO(A.a([A.cT("about.",s,s,$.E0().eS(B.em),s),A.bA(30,s),new A.ka(1,B.d9,A.cT("I'm originally from Argentina and have been living in Europe since 2021.\n\nWith a degree in International Relations, I started my career in Foreign Trade, working with people from all over the world. That experience made me realize how outdated and inefficient many systems and tools were tools were, inspiring me to come up with creative solutions to improve workflows. This sparked my transition into UX Design, where I could focus on building better, user-centered products.\n\nNow, as a Product Designer, I get to combine my passion for connecting with people from diverse backgrounds with my love for creating intuitive and impactful digital experiences. I\u2019m currently honing my skills daily and staying up-to-date with the latest trends to design solutions that truly make a difference.\n\nFun facts about me: I\u2019ll always choose cats over dogs, food over flowers and movie nights over going out any day!",s,!0,$.axF(),s),s)],t.F),B.a2,B.K,B.dz),s)}}
 A.Pi.prototype={
-I(a){var s,r,q,p=null,o=t.w,n=A.dP(a)===B.aP?A.bY(a,p,o).w.a.a/2-30-$.jY.ak()*2:A.bY(a,p,o).w.a.a-30-$.jY.ak()*2,m=Math.min(500,n)
+I(a){var s,r,q,p=null,o=t.w,n=A.dP(a)===B.aP?A.bY(a,p,o).w.a.a/2-30-$.jY.ak()*2:A.bY(a,p,o).w.a.a-30-$.jY.ak()*2,m=Math.min(350,n)
 o=A.dP(a)===B.aP?A.bY(a,p,o).w.a.a/2-$.jY.ak()-5:A.bY(a,p,o).w.a.a
 n=$.axP()
 s=A.cT("Hello! I\u2019m Aleida,",p,p,n,p)
